@@ -1,0 +1,23 @@
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: backup-cronjob
+spec:
+  schedule: "0 * * * *"  # Cron expression for running every hour
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          containers:
+          - name: backup-container
+            image: your-docker-image:tag  # Replace with your Docker image name and tag
+            command: ["python", "backup_script.py"]  # Command to run your backup script
+            volumeMounts:
+            - name: data-volume
+              mountPath: /data  # Mount point for the PVC
+          restartPolicy: OnFailure
+          volumes:
+          - name: data-volume
+            persistentVolumeClaim:
+              claimName: data-pvc  # Name of the PVC
+
