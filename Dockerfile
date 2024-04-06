@@ -13,5 +13,13 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy the backup script into the container at /app
 COPY backup_script.py .
 
+COPY api_tokens.json .
+
+COPY backup.log .
+
+COPY backup-service.json .
+
+COPY test.txt .
+
 # Command to run the backup script
 CMD ["python", "backup_script.py"]

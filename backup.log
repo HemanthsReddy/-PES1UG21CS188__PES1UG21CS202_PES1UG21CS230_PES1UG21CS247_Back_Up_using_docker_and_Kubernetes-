@@ -1,0 +1,63 @@
+2024-04-06 12:42:13,277 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-06 12:42:13,282 - INFO - Authentication with Google Drive API successful.
+2024-04-06 12:42:13,282 - INFO - Uploading file 'test.txt' to Google Drive...
+2024-04-06 12:42:15,432 - INFO - File 'test.txt' uploaded successfully with ID: 1MxXo64Lu6R-ugV99NLXg55J8CsE7Bj1f
+2024-04-06 12:50:18,288 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-06 12:50:18,292 - INFO - Authentication with Google Drive API successful.
+2024-04-06 12:50:19,633 - INFO - File 'test.txt' already exists in Google Drive. Updating...
+2024-04-06 12:50:21,666 - INFO - File 'test.txt' updated successfully.
+2024-04-06 13:42:55,015 - ERROR - Error during authentication: name 'Request' is not defined
+2024-04-06 13:42:55,016 - ERROR - Error uploading file 'test.txt': 'NoneType' object has no attribute 'files'
+2024-04-06 13:43:18,158 - ERROR - Error during authentication: name 'Request' is not defined
+2024-04-06 13:43:18,159 - ERROR - Error uploading file 'test.txt': 'NoneType' object has no attribute 'files'
+2024-04-06 13:44:00,146 - ERROR - Error during authentication: name 'Request' is not defined
+2024-04-06 13:44:00,147 - INFO - Uploading file 'test.txt' to Google Drive...
+2024-04-06 13:44:00,194 - ERROR - Error uploading file 'test.txt': 'NoneType' object has no attribute 'files'
+2024-04-06 13:46:21,421 - ERROR - Error during authentication: name 'Request' is not defined
+2024-04-06 13:46:21,421 - ERROR - Error uploading file 'test.txt': 'NoneType' object has no attribute 'files'
+2024-04-06 13:46:40,289 - ERROR - Error during authentication: name 'Request' is not defined
+2024-04-06 13:46:40,289 - ERROR - Error uploading file 'test.txt': 'NoneType' object has no attribute 'files'
+2024-04-06 13:47:18,297 - INFO - "GET /?state=axlzeeqpeChNvO7mN1cMW7h1DySRTP&code=4/0AeaYSHDYBIhnVouNevA0bfkWCiAg0GXkUap10nT-3ujz6F9FjQJJpH48eC4xu1cn3d465g&scope=https://www.googleapis.com/auth/drive HTTP/1.1" 200 65
+2024-04-06 13:47:19,696 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-06 13:47:19,706 - INFO - Authentication with Google Drive API successful.
+2024-04-06 13:47:21,582 - INFO - File 'test.txt' already exists in Google Drive. Updating...
+2024-04-06 13:47:24,245 - INFO - File 'test.txt' updated successfully.
+2024-04-06 13:51:43,126 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-06 13:51:43,131 - INFO - Authentication with Google Drive API successful.
+2024-04-06 13:51:44,427 - INFO - File 'test.txt' already exists in Google Drive. Updating...
+2024-04-06 13:51:46,378 - INFO - File 'test.txt' updated successfully.
+2024-04-06 13:56:45,149 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-06 13:56:45,152 - INFO - Authentication with Google Drive API successful.
+2024-04-06 13:56:46,476 - INFO - File 'test.txt' already exists in Google Drive. Updating...
+2024-04-06 13:56:48,631 - INFO - File 'test.txt' updated successfully.
+2024-04-06 14:13:13,175 - INFO - "GET /?state=Kdpz69Fpjo0jEY5Ax06UuMMc4MuiIm&code=4/0AeaYSHDKUy0HRWal2g_XPR60jCDT54v0i5K7lwuhpupDNGFUFWg6zOHD1Rdy1FrW1iCcsQ&scope=https://www.googleapis.com/auth/drive HTTP/1.1" 200 65
+2024-04-06 14:13:14,398 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-06 14:13:14,404 - INFO - Authentication with Google Drive API successful.
+2024-04-06 14:13:15,979 - INFO - File 'test.txt' already exists in Google Drive. Updating...
+2024-04-06 14:13:18,306 - INFO - File 'test.txt' updated successfully.
+2024-04-06 14:13:51,696 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-06 14:13:51,699 - INFO - Authentication with Google Drive API successful.
+2024-04-06 14:14:05,639 - INFO - File 'test.txt' already exists in Google Drive. Updating...
+2024-04-06 14:14:07,890 - INFO - File 'test.txt' updated successfully.
+2024-04-06 14:24:18,840 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-06 14:24:18,843 - INFO - Authentication with Google Drive API successful.
+2024-04-06 14:24:20,101 - INFO - File 'test.txt' already exists in Google Drive. Updating...
+2024-04-06 14:24:22,194 - INFO - File 'test.txt' updated successfully.
+2024-04-06 19:14:33,187 - INFO - "GET /?state=SYb4UokPkX6xnYfcXQzU2WiqWM3Yrb&code=4/0AeaYSHC92xI5Xb3QTgNa9hjWktXvII7X3M-QSGfvkRTCAszmNS6MTarDqHyMHFFE3ReNqA&scope=https://www.googleapis.com/auth/drive HTTP/1.1" 200 65
+2024-04-06 19:14:33,766 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-06 19:14:33,768 - INFO - Authentication with Google Drive API successful.
+2024-04-06 19:14:34,903 - INFO - File 'test.txt' already exists in Google Drive. Updating...
+2024-04-06 19:14:37,359 - INFO - File 'test.txt' updated successfully.
+2024-04-06 19:26:06,760 - ERROR - Error during authentication: name 'Request' is not defined
+2024-04-06 19:26:06,760 - ERROR - Error uploading file 'test.txt': 'NoneType' object has no attribute 'files'
+2024-04-06 19:26:18,934 - ERROR - Error during authentication: name 'Request' is not defined
+2024-04-06 19:26:18,934 - ERROR - Error uploading file 'test.txt': 'NoneType' object has no attribute 'files'
+2024-04-06 19:26:34,354 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-06 19:26:34,356 - INFO - Authentication with Google Drive API successful.
+2024-04-06 19:26:35,534 - INFO - File 'test.txt' already exists in Google Drive. Updating...
+2024-04-06 19:26:37,562 - INFO - File 'test.txt' updated successfully.
+2024-04-06 19:28:30,662 - INFO - "GET /?state=vXTMRZs375laAXeKAd76e2qg5ULsQh&code=4/0AeaYSHA8M2v-cbKz5PCvDfa8-AjfzbFj4DsfZ0mBytXm4bs2M5fZ4QWEm2h6LLXd1mYdCA&scope=https://www.googleapis.com/auth/drive HTTP/1.1" 200 65
+2024-04-06 19:28:33,332 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-06 19:28:33,334 - INFO - Authentication with Google Drive API successful.
+2024-04-06 19:28:34,404 - INFO - File 'test.txt' already exists in Google Drive. Updating...
+2024-04-06 19:28:37,240 - INFO - File 'test.txt' updated successfully.
